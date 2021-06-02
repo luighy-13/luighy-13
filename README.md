@@ -3,5 +3,19 @@
 
 ### Tecnologies, Programs and systems os than i know
 
--Systems os
-  
+#### languages of web developing
+- JavaScript
+- Php
+- Html
+- css/sass
+##### frameworks and libraries
+- Angular
+- Vue js
+
+- Laravel
+- adonisJs
+
+#### Systems os
+- Linux
+- Windows
+- Mac os
